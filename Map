@@ -1,1 +1,1 @@
-("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/robloxplayertacoman/The_Rooms/refs/heads/main/PSCP%20Room%20Data.luau","ZoneInfo":("LCZ":("ignorenuke":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":("25_13":("CUSTOM_Room0",1)),"HCZ-EZ":()),"Zones":("LCZ","HCZ-EZ"))
+("ZoneInfo":("LCZ":("hasblackout":Y,"hasdecontamination":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":(),"HCZ-EZ":()),"Zones":("LCZ","HCZ-EZ"),"CUSTOM_SURFACE_ID":"https://raw.githubusercontent.com/robloxplayertacoman/The_Rooms/refs/heads/main/PSCP%20Room%20Data.luau")
